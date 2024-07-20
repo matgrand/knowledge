@@ -1,3 +1,3 @@
 This is an example paper report
 
-![[random1.png]]
+![[imgs/random1.png]]
