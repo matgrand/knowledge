@@ -8,13 +8,18 @@
 - There are cad models of rfx-mod2, find where they are.
 ## What I need to understand before
 - basics of [Plasma physics](../plasma_physics.md), and plasma in tokamaks
+	- [ ] study plasma physics
 - a basic understanding of the original rfx experiment + rfx-mod 
+	- [ ] find/ask where rfx stuff is and study it
 - tearing modes
 - Reverse Field Pinch
 - shaped plasmas 
 - triangularity in plasma
 - magnetic chaos
 - WTF is Transport
-- 
+- H-mode, L-mode
+- deep understanding of safety factor and other relevant plasma stuff
 
 ### Unfinished
+- This need to be re-read with a deeper understanding
+- It appears that I need to understand better plasma physics

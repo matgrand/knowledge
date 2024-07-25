@@ -5,4 +5,5 @@ This is a repo for organizing my knowledge in obsidian/markdown format. Work in 
 - ## [Papers](/papers.md)
 - ## Random Stuff
 - ## [Phd](/phd.md)
+- ## [Tasks](/tasks.md) 
  
