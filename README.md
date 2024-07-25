@@ -3,7 +3,7 @@
 This is a repo for organizing my knowledge in obsidian/markdown format. Work in progress.
 
 - ## [Papers](/papers.md)
-- ## Random Stuff
+- ## [Random Stuff](/random_stuff.md)
 - ## [Phd](/phd.md)
 - ## [Tasks](/tasks.md) 
  
