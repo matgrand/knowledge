@@ -19,7 +19,6 @@
 - WTF is Transport
 - H-mode, L-mode
 - deep understanding of safety factor and other relevant plasma stuff
-
 ### Unfinished
 - This need to be re-read with a deeper understanding
 - It appears that I need to understand better plasma physics
