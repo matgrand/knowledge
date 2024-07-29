@@ -1,3 +1,4 @@
 # FRee-boundary Integro-Differential Axisimmetric
-https://github.com/matteobonotto/FRIDA
+code: https://github.com/matteobonotto/FRIDA
+paper: [link to paper]
 
