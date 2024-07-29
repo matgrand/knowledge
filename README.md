@@ -7,4 +7,4 @@ This is a repo for organizing my knowledge in obsidian/markdown format. Work in 
 - ## [Phd](/phd.md)
 - ## [Tasks](/tasks.md) #obsidian
 - ## [Ideas](ideas.md)
-- ## [daily_reports](daily_reports.md) #obsidian
+- ## [Daily Reports](daily_reports.md) #obsidian
