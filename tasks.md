@@ -1,9 +1,9 @@
-# All tasks
-```tasks
-```
 # To do
 ```tasks
 not done
+```
+# All tasks
+```tasks
 ```
 # Done
 ```tasks
