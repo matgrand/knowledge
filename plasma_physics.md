@@ -1,6 +1,6 @@
 # Plasma Physics
 Everything I know about plasma physics, spoiler: not much yet.
 
-## To do
-This should be a list of tasks
-- [ ] Study Plasma Physics
+## To learn
+- [ ] get better of fast manipulation on formulas/equations
+- [ ] get better at fast reading/understandin equations

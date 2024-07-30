@@ -1,5 +1,10 @@
-# Random stuff
 - [ ] rewrite the FRIDA matlab code into python
 - [ ] try vim motion on vscode
 	- [ ] install vim motion on vscode
 - [x] basic understanding of obsidian tasks ✅ 2024-07-29
+- [ ] understand structural analysis🔽 
+- [ ] deep understand FEM simulations/codes
+- [ ] learn c language
+	- [ ] understand c integration in python, write a c python package
+- [ ] learn cuda language
+	- [ ] understand cuda integration in python, write a cuda py package
