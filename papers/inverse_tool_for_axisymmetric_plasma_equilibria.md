@@ -1,4 +1,4 @@
-# An inverse equilibrium tool to define axisymmetric plasma equilibria
+# An inverse equilibrium tool to define axisymmetric plasma equilibria #paper
 
 ![](imgs/inverse_tool_for_axisymmetric_plasma_equilibria.png)
 

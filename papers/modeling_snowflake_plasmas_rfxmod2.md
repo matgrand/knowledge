@@ -1,4 +1,4 @@
-# Modeling snowflake plasmas in RFX-mod2: A test bed for SOL and edge physics characterization
+# Modeling snowflake plasmas in RFX-mod2: A test bed for SOL and edge physics characterization #paper
 
 ![](imgs/modeling_snowflake_plasmas_rfxmod2.png)
 

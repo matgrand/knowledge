@@ -1,4 +1,4 @@
-# Efficient Numerical Solution of Coupled Axisymmetric Plasma Equilibrium and Eddy Current Problems
+# Efficient Numerical Solution of Coupled Axisymmetric Plasma Equilibrium and Eddy Current Problems #paper
 
 ![](imgs/efficient_numerical_solution_axisymmetric_plasma_eddy_currents.png)
 
