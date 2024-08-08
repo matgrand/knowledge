@@ -28,7 +28,7 @@ where $\vec{F}$ is a vector field, $d\vec{s}$ is the tangent vector to the curve
 
 > $\vec{F}$ is 2D
 
-> #st is related to the conservation of angular momentum.
+> #sth  is related to the conservation of angular momentum.
 ## Green's Theorem
 Stokes' theorem on a flat surface.
 
@@ -38,4 +38,7 @@ $$
 
 > the dot product disappears because the normal vector is perpendicular to the surface. 
 
-#tbc
+![](imgs/stokes.png)
+
+> https://www.youtube.com/watch?v=TORt20_HjMY&ab_channel=SteveBrunton
+
