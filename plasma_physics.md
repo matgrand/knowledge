@@ -18,4 +18,5 @@ Therefore, to perform fast reconstruction, one considers the axisymmetric case, 
 
 - plasma equilibrium reconstruction is computationally slow
 - there exists a ton of codes that do it, both for 3D and 2D
-- 
+
+> source: https://wiki.fusion.ciemat.es/wiki/MHD_equilibrium
