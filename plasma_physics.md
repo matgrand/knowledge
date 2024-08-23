@@ -8,6 +8,8 @@ Everything I know about plasma physics, spoiler: not much yet.
 ## Interesting Material
 - https://www.sciencedirect.com/topics/engineering/fusion-plasmas
 - [Fusion Wiki](https://wiki.fusion.ciemat.es/wiki/Main_Page)
+- [video series about fusion](https://www.youtube.com/watch?v=yuNf9jv3Ulg)
+- [iter physics basics](https://iopscience.iop.org/issue/0029-5515/47/6)
 
 
 ## Plasma equilibrium reconstruction

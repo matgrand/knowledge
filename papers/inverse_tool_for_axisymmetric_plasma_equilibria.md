@@ -2,6 +2,7 @@
 
 ![](imgs/inverse_tool_for_axisymmetric_plasma_equilibria.png)
 
+Paper of [IET](../phd/IET.md)
 ## Intro
 - coded in matlab
 - calculates the coil currents needed to generate a predefined plasma shape

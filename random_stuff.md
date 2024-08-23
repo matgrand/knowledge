@@ -1,3 +1,4 @@
+
 - [ ] rewrite the FRIDA matlab code into python
 - [ ] try vim motion on vscode
 	- [ ] install vim motion on vscode
@@ -7,4 +8,4 @@
 - [ ] learn c language
 	- [ ] understand c integration in python, write a c python package
 - [ ] learn cuda language
-	- [ ] understand cuda integration in python, write a cuda py package
+	- [ ] understand cuda integration in python, write a cuda py package	
