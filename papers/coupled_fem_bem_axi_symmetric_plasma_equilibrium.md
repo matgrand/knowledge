@@ -1,7 +1,7 @@
 # A Coupled FEM-BEM Approach for the Solution of the Free-Boundary Axi-Symmetric Plasma Equilibrium Problem #paper
 
 ![](imgs/coupled_fem_bem_axi_symmetric_plasma_equilibrium.png)
-
+[FRIDA](../phd/FRIDA.md)
 This is a *very long* paper
 I'm not ready to read this paper yet, requirements:
 - very good FEM methods knowledge #todo #fem
