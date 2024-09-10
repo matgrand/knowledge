@@ -9,3 +9,4 @@
 	- [ ] understand c integration in python, write a c python package
 - [ ] learn cuda language
 	- [ ] understand cuda integration in python, write a cuda py package	
+- [ ] add ai stuff to iterm2
