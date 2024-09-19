@@ -3,3 +3,5 @@ Random ideas
 - [ ] a code that can convert a latex-generated pdf to markdown, with imgs, formulas etc... 🔽
 - apply classic fluid simulation stuff to plasma
 - quaternion fourier analysis
+- watch Reducible youtube channel 
+- 
