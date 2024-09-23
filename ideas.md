@@ -4,4 +4,4 @@ Random ideas
 - apply classic fluid simulation stuff to plasma
 - quaternion fourier analysis
 - watch Reducible youtube channel 
-- 
+- [ ] create a RL/MPC abstract scheme in Julia, and use it to solve various problems (like inverted pendulum)
