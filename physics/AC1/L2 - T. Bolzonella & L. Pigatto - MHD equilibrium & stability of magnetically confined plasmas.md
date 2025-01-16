@@ -11,7 +11,7 @@
 ![](imgs/L2%20-%20T.%20Bolzonella%20&%20L.%20Pigatto-1.png)
 - assumes an external mag field
 - (1) + (2) similar to Navier Stokes
-- (2) vector eq
+- (2) vector eq (conservazione forze meccaniche)
 - (3) can be written in different ways, scalar eq
 - (1) (2) (3) mass momentum energy
 - (4) -> electromagnetism (Maxwell)
