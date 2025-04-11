@@ -3,6 +3,8 @@
 This is a repo for organizing my knowledge in obsidian/markdown format. Work in progress. Whatever has the #obsidian tag is only showing properly using [Obsdian](https://obsidian.md/).
 
 - ## [Papers](/papers.md)
+- ## [Current Projects](/current_projects.md)
+- ## [Useful Links](/useful_links.md)
 - ## [Random Stuff](/random_stuff.md)
 - ## [Phd](/phd.md)
 - ## [Tasks](/tasks.md) #obsidian
